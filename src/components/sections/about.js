@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'git', 'React', 'php', 'Node.js', 'Gatsby'];
+  const skills = ['JavaScript (ES6+)', 'git', 'React', 'php', 'Node.js', 'Figma', 'illustrator', 'photoshop'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -155,11 +155,11 @@ const About = () => {
 
             <p>
               I also recently{' '}
-              <a href="https://www.stacktech.com">
-                launched a Startup
+              <a href="https://www.stacktech.io">
+                co-founded a Startup
               </a>{' '}
-              that covers everything you need to build a web app using Node
-              &amp; React.
+              that covers everything you need to build an identity on the web
+              &amp; offline.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
