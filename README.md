@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/Daof15/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Abrahamifeoluwa.github.io - v4
+  Abrahamifeoluwa.github.io - v1
 </h1>
 <p align="center">
-  The Redesigned iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The Redesigned iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.github.io/" target="_blank">githubpages</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/Daof15/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/abrahamife/abrahamife.github.io/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
