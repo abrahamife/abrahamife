@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://abrahamife.github.io/abrahamife/sitemap/sitemap-index.xml
+Host: https://abrahamife.github.io
