@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  partprefix: "/abrahamife",
+  pathPrefix: "/abrahamife",
   siteMetadata: {
     title: 'Abraham Ifeoluwa',
     description:
