@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Westudios'
 cover: './halcyon.png'
-github: 'https://github.com/daof15'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/abrahamife'
+external: 'https://westudios.ng/'
 tech:
   - VS Code
   - Sublime Text
