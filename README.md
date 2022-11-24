@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Daof15/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/abrahamife/abrahamife/dev/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Abrahamifeoluwa.github.io - v1
+  Abrahamifedev.gtsb.io
 </h1>
 <p align="center">
-  The Redesigned iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.github.io/" target="_blank">githubpages</a>
+  The Redesigned iteration of <a href="https://abrahamifedev.gtsb.io" target="_blank">abrahamifedev.gtsb.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.gatsby.io/" target="_blank">githubpages</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/abrahamife/abrahamife.github.io/main/src/images/demo.png)
+![demo](abrahamifedev.gtsb.io)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -25,7 +25,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give the designer proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
